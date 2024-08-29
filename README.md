@@ -1,3 +1,5 @@
 # BIOL726303
 Repo for Genome Seminar
-MKK
+
+Links to class work
+**[base.sbatch](link to githib upload of sbatch/sh)
