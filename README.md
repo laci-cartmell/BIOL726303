@@ -2,4 +2,7 @@
 Repo for Genome Seminar
 
 Links to class work
-**[base.sbatch](link to githib upload of sbatch/sh)
+
+*[base.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/base.sbatch)
+*[test.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/test.sh)
+
