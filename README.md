@@ -1,8 +1,11 @@
 # BIOL726303
-Repo for Genome Seminar
+###Repo for Genome Seminar
 
-Links to class work
+###Links to class work
 
-*[base.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/base.sbatch)
-*[test.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/test.sh)
+#August 29th:
+
+![base.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/base.sbatch)  
+
+![test.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/test.sh)
 
