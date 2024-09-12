@@ -9,3 +9,5 @@ August 29th:
 
 [test.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/test.sh)
 
+[Research Proposal] (https://github.com/laci-cartmell/BIOL726303/blob/main/Genome%20Biology%20Proposal.pdf)
+
