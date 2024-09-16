@@ -17,7 +17,6 @@ Links to class work
 
   - [randsamp_seqtk](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/randsamp.sbatch)
 
-  - [BWA - indexing](https://github.com/laci-cartmell/BIOL726303/tree/main/scripts/BWA)
 
 Task's associated with BWA & samtools - Tasks 5 - 15
 
