@@ -18,15 +18,18 @@ Links to class work
   - [randsamp_seqtk](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/randsamp.sbatch)
 
 
+Class Project
+- [Link to documentation for project](https://github.com/laci-cartmell/BIOL726303/blob/main/Project%20Documents/documentation.md)
+
 Task's associated with BWA & samtools - Tasks 5 - 15
 
 - Task 5
-  - [ecoli_index.sh ](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/ecoli_index.sh)
-  - [ecoli_index.sbatch ](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/ecoli_index.sbatch)
+  - [ecoli_index.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/ecoli_index.sh)
+  - [ecoli_index.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/ecoli_index.sbatch)
 
 - Task 6 - mapping to reference
-  - [bwamem.sh ](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/bwamem.sh)
-  - [bwamem.sbatch ](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/bwamem.sbatch)
+  - [bwamem.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/bwamem.sh)
+  - [bwamem.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/bwamem.sbatch)
 
 - Task 7 - SAM to BAM
   - [samtools.sbatch ](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/samtools.sbatch)
