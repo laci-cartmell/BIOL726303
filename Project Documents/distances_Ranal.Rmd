@@ -25,6 +25,7 @@ A visualization of the distribution - Genetic Distance Distribution Analysis
 
 - Mantel Test
   - use vegan to determine if correlation exists between genetic and geographic distances
+  -  use adegenet - the mantel.randtest function - same reason, diff. method 
   - Ho: No isolation by distance
     - Expect no isolation by distance as wasn't present with mitochondrial analysis & Fst suggests panmixia
 

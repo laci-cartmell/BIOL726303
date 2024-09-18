@@ -6,9 +6,9 @@ A correlation analysis - Mantel's test
 A spatial autocorrelation analysis - Moran's I
 A visualization of the distribution - Genetic Distance Distribution Analysis
 
----
-Outline of steps to take
-- Read and Prepare Data:
+
+Outline of steps to take:
+- Read and Prepare Data
   - use vcfR to extract data from "populations.snps.vcf" (STACKS - populations output)
     - best genetic distance to use?
   - use readxl to read geographic coordinates from an Excel file.
@@ -21,6 +21,7 @@ Outline of steps to take
 
 - Mantel Test
   - use vegan to determine if correlation exists between genetic and geographic distances
+  -  use adegenet - the mantel.randtest function - same reason, diff. method 
   - Ho: No isolation by distance
     - Expect no isolation by distance as wasn't present with mitochondrial analysis & Fst suggests panmixia
 
