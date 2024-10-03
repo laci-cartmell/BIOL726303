@@ -21,7 +21,7 @@ Links to class work
 Class Project
 - [Link to documentation for project](https://github.com/laci-cartmell/BIOL726303/blob/main/Project%20Documents/documentation.md)
 
-Task's associated with BWA & samtools - Tasks 5 - 15
+Chapter 2: Task's associated with BWA & samtools - 5-15
 
 - Task 5
   - [ecoli_index.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/ecoli_index.sh)
@@ -62,3 +62,28 @@ Task's associated with BWA & samtools - Tasks 5 - 15
 - Task 15 - Missing genes - coverage
   - [ecoli_cover.sh ](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/ecoli_cover.sh)
   - [ecoli_cover.sbatch ](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/BWA/ecoli_cover.sbatch)
+
+
+Chapter 3: Task's associated with de novo assembly & unmapped assessments
+
+- Task 1
+  - [bam_to_fasta.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
+  - [bam_to_fasta.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
+
+- Task 3
+  - [unmapped_spades.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_spades.sh)
+  - [unmapped_spades.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_spades.sbatch)
+
+- Task 4
+  - [unmapped_quast.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_quast.sh)
+  - [unmapped_quast.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_quast.sbatch)
+
+- Task 6
+  - [unmapped_orf.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_orf.sh)
+  - [unmapped_orf.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_orf.sbatch)
+  - [unmapped_blastn.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_blastn.sh)
+  - [unmapped_blastn.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_blastn.sbatch)
+
+- Task 7
+  - [unmapped_pfam.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_pfam.sh)
+  - [unmapped_pfam.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_pfam.sbatch)
