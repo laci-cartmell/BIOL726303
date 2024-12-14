@@ -93,51 +93,49 @@ Chapter 3: Task's associated with de novo assembly & unmapped assessments
 Chapter 4: De novo assembly with short reads
 
 - Task 1
-  - [full_spades.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [full_spades.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
+  - [full_spades.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/full_spades.sh)
+  - [full_spades.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/full_spades.sbatch)
 
 - Task 3
-  - [align_denovo.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_spades.sh)
-  - [align_denovo.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_spades.sbatch)
+  - [align_denovo.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/align_denovo.sh)
+  - [align_denovo.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/align_denovo.sbatch)
 
-  - [blastn_denovo.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-
-  - [qualimap_denovo.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [qualimap_denovo.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
+  - [qualimap_denovo.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/qualimap_denovo.sh)
+  - [qualimap_denovo.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/qualimap_denovo.sbatch)
 
 - Task 5
-  - [orfipy.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [orfipy.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
-  - [pfam.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [pfam.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
-  - [orf_blast.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [orf_blast.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
+  - [orfipy.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/orfipy.sh)
+  - [orfipy.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/orfipy.sbatch)
+  - [pfam.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/pfam.sh)
+  - [pfam.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/pfam.sbatch)
+  - [orf_blast.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/orf_blast.sh)
+  - [orf_blast.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/orf_blast.sbatch)
 
 
 Chapter 5: Hybrid de novo Assembly
 
 - Task 2
-  - [fastqc_psdmns.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [fastqc_psdmns.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
+  - [fastqc_psdmns.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/fastqc_psdmns.sh)
+  - [fastqc_psdmns.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/fastqc_psdmns.sbatch)
 
 - Task 3
-  - [trim_galore_ch5.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_spades.sh)
-  - [trim_galore_ch5.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/unmapped_spades.sbatch)
+  - [trim_galore_ch5.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/trim_galore_ch5.sh)
+  - [trim_galore_ch5.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/trim_galore_ch5.sbatch)
 
 - Task 4
-  - [full_spades_ch5.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [full_spades_ch5.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
+  - [full_spades_ch5.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/full_spades_ch5.sh)
+  - [full_spades_ch5.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/full_spades_ch5.sbatch)
 
-  - [quast_ch5.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [quast_ch5.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
+  - [quast_ch5.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/quast_ch5.sh)
+  - [quast_ch5.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/quast_ch5.sbatch)
 
 - Task 5
-  - [pseud_long_assembly.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [pseud_long_assembly.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
+  - [pseud_long_assembly.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/pseud_long_assembly.sh)
+  - [pseud_long_assembly.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/pseud_long_assembly.sbatch)
 
 - Task 6
-  - [align2ref_illumina.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [align2ref_illumina.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
+  - [align2ref_illumina.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/align2ref_illumina.sh)
+  - [align2ref_illumina.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/align2ref_illumina.sbatch)
 
-  - [align2ref_pacbio.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sh)
-  - [quast_ch5.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/denovo/bam2fasta.sbatch)
+  - [align2ref_pacbio.sh](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/align2ref_pacbio.sh)
+  - [quast_ch5.sbatch](https://github.com/laci-cartmell/BIOL726303/blob/main/scripts/scripts/Assembly/align2ref_pacbio.sbatch)
